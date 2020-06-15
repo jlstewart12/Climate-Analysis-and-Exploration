@@ -20,7 +20,7 @@ Designed a query to calculate the total number of stations and to determine whic
 
 ## Temperature Analysis
 
-Used the `calc_temps` function to calculate the min, avg, and max temperatures for my trip using the matching dates from the 2017.
+Used the `calc_temps` function to calculate the min, avg, and max temperatures for my trip using the matching dates from 2017.
 
 ![temperature](Images/temps.png)
 
