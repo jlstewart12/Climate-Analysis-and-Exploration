@@ -4,7 +4,7 @@ I need a vacation! How about a trip to Hawaii to fulfill the need. But first, le
 
 I used Python and SQLAlchemy to do some climate analysis and data exploration on Hawaii's climate database. 
 
-![precipitation](Images/vacation2.png)
+![precipitation](Images/vacation2.jpg)
 
 ## Precipitation Analysis
 
@@ -38,6 +38,6 @@ Used Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
 ![daily-normals](Images/rainfall.png)
   
-Turns out the first week of July is ideal for my much needed vactation.
+Turns out the first week of July is ideal for my much needed vactation. Off I go!
 
-![vacation](Images/vacation3.png)
+![vacation](Images/vacation3.jpg)
