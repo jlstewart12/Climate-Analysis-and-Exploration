@@ -8,7 +8,7 @@ I used Python and SQLAlchemy to do some climate analysis and data exploration on
 
 ## Precipitation Analysis
 
-Selecting only the `data` and `prcp` values, I designed a query to retrieve the last 12 months of precipitation data and then ploted the results.
+Selecting only the `data` and `prcp` values, I designed a query to retrieve the last 12 months of precipitation data and then plotted the results.
 
 ![precipitation](Images/prcp.png)
 
