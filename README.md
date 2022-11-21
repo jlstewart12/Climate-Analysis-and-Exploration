@@ -37,7 +37,4 @@ Loaded the list of daily normals into a Pandas DataFrame and set the index equal
 Used Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
 ![daily-normals](Images/rainfall.png)
-  
-Turns out the first week of July is ideal for my much needed vactation. Off I go!
-
-![vacation](Images/vacation3.jpg)
+ 
